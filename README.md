@@ -12,3 +12,7 @@ Mobile app made with React Native to show users and their profiles
 
 ### How to run
 * react-native run-ios / run-android
+
+![img 1](/prints/image1.png)
+![img 1](/prints/image2.png)
+![img 1](/prints/image3.png)
